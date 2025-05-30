@@ -21,11 +21,22 @@ A results-driven software engineer with over 8 years of experience in full-stack
 
 ## Skills
 
-**Programming Languages:**
+_**Programming Languages:**_
 - JavaScript/TypeScript
 - Python
 - Java
 - Go
+- [Test](https://www.youtube.com/watch?v=fy7f71zzpe8&t=424s)
+- ---
+- ***
+-  (@@жирный@@)
+-  <b>жирный</b>
+- <script>alert("xss")</script>
+- \*не жирный\*
+- _Жирный курсив_
+- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+- [alt text](https://rule34.xxx//samples/2551/sample_4ebdb0d8a82e310bf9b74e472d1ca2d5b4592dcd.jpg?13499683)
+
 
 **Technologies & Frameworks:**
 - React, Vue.js, Node.js
