@@ -35,7 +35,7 @@ _**Programming Languages:**_
 - \*не жирный\*
 - _Жирный курсив_
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-- ![test]([https://rule34.xxx//samples/2551/sample_4ebdb0d8a82e310bf9b74e472d1ca2d5b4592dcd.jpg?13499683](https://rule34.xxx//samples/2551/sample_4ebdb0d8a82e310bf9b74e472d1ca2d5b4592dcd.jpg))
+- ![test](https://rule34.xxx//samples/2551/sample_4ebdb0d8a82e310bf9b74e472d1ca2d5b4592dcd.jpg)
 
 
 **Technologies & Frameworks:**
